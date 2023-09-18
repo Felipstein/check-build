@@ -1,0 +1,45 @@
+{
+  "id": "glxYFQAjKtFgtPUtWPnzR",
+  "payload": {
+    "user": { "id": "EGB1YGa59UDlocMnnPo6bbBM" },
+    "team": { "id": "team_7vTAc0hD56UoWAaNP7Q6e1zQ" },
+    "deployment": {
+      "id": "dpl_2ZEuDC1VhfExxukyobCmU3ivka1K",
+      "meta": {
+        "githubCommitAuthorName": "Felipstein",
+        "githubCommitMessage": "test commit",
+        "githubCommitOrg": "Metrito",
+        "githubCommitRef": "dev",
+        "githubCommitRepo": "metrito_interface",
+        "githubCommitSha": "93b7bedeb32b1e81e5defed6bdce91a990d36b5f",
+        "githubDeployment": "1",
+        "githubOrg": "Metrito",
+        "githubRepo": "metrito_interface",
+        "githubRepoOwnerType": "Organization",
+        "githubCommitRepoId": "627072603",
+        "githubRepoId": "627072603",
+        "githubRepoVisibility": "private",
+        "githubCommitAuthorLogin": "Felipstein",
+        "branchAlias": "metrito-webapp-git-dev-metrito.vercel.app"
+      },
+      "name": "metrito-webapp",
+      "url": "metrito-webapp-kf0u1e0hx-metrito.vercel.app",
+      "inspectorUrl":
+        "https://vercel.com/metrito/metrito-webapp/2ZEuDC1VhfExxukyobCmU3ivka1K"
+    },
+    "links": {
+      "deployment":
+        "https://vercel.com/metrito/metrito-webapp/2ZEuDC1VhfExxukyobCmU3ivka1K",
+      "project": "https://vercel.com/metrito/metrito-webapp"
+    },
+    "name": "metrito-webapp",
+    "plan": "pro",
+    "project": { "id": "prj_yMYnZWKM0XaeZrGkDIRNREEtbJFW" },
+    "regions": ["iad1"],
+    "target": null,
+    "type": "LAMBDAS",
+    "url": "metrito-webapp-kf0u1e0hx-metrito.vercel.app"
+  },
+  "createdAt": 1695068291882,
+  "type": "deployment.error"
+}
