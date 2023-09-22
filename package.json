@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Felipe Oliveira",
+  "engines": {
+    "node": "18.17.0"
+  },
   "scripts": {
     "dev": "cross-env NODE_ENV=development tsnd src/server.ts --ignore-watch node_modules --respawn --transpile-only --exit-child",
     "build": "tsup src --clean --minify",
